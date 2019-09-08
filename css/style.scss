@@ -1,0 +1,99 @@
+$theme-colors: ("primary": #00B4FF);
+$body-color: #454545; 
+$headings-color: #666666;
+$font-family-base: 'Open Sans', sans-serif;
+$font-family-headings: 'Rubik', sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Rubik:400,700&display=swap');
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+a {
+    color: inherit;
+    &:hover {
+        color: #999999;
+        text-decoration: none;
+    }
+}
+
+.logo {
+    img {
+        max-width: 300px;
+    }
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.phone {
+    .card {
+        border: solid 3px #00B4FF;
+        transition: 200ms ease-out;
+        box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.1);
+        &:hover {
+            background-color: #00B4FF;
+            color: white;
+            transition: 200ms ease-in;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+        }
+        .number {
+            font-size: 1.5rem;
+            margin-bottom: 0;
+        }
+    }
+    &:hover {
+        color: inherit;
+    }
+}
+
+ul {
+    padding-left: 21px;
+    list-style-image: url("../img/checked.gif");
+}
+
+#hero {
+    background-image: url('../img/bgf.jpg');
+    background-position: top;
+    background-size: cover;
+}
+
+.detectamos {
+    .card {
+        border: none;
+        transition: 200ms ease-out;
+        box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.1);
+        &:hover {
+            color: #00B4FF;
+            transition: 200ms ease-in;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+        }
+    }
+    &:hover {
+        color: inherit;
+    }
+}
+
+.facebook {
+    display: block;
+    margin-top: 2rem;
+    padding: 1rem;
+    color: white;
+    border-radius: 4px;
+    background-color: #3c5a99;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: 200ms ease-out;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.1);
+    span {
+        margin-left: 1rem;
+    }
+    i {
+        font-size: 2rem;
+    }
+    &:hover {
+        background-color: #173b7a;
+        color: white;
+        transition: 200ms ease-in;
+        box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    }
+}
