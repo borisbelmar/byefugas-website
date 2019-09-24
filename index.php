@@ -51,6 +51,7 @@
                     <div class="row">
                         <div class="col">
                             <h4 class="text-center font-weight-bold">Detectamos fugas, generamos un presupuesto y reparamos</h4>
+                            <h5 class="text-center font-weight-bold">También realizamos informes técnicos para compañías de seguros</h5>
                         </div>
                     </div>
                     <div class="row my-5">
@@ -104,11 +105,11 @@
                 <div class="col-sm-12 col-md-6 text-center text-md-left mb-3">
                    <h3 class="font-weight-bold">No pases malos ratos y detecta</h3>
                    <h6 class="mt-3 font-weight-bold">Costo de la detección</h6>
-                   <h4 class="font-weight-bold text-primary">$95.000</h4>
+                   <h4 class="font-weight-bold text-primary">$90.000 + IVA</h4>
                    <ul>
                        <li>Avanzada tecnología de detección.</li>
-                       <li>Trabajos con 6 meses de garantía.</li>
-                       <li>Si no encontramos la fuga, no cobramos.</li>
+                       <li>Trabajos con 3 meses de garantía.</li>
+                       <li>Si no encontramos la fuga, cobramos solo la visita técnica.</li>
                    </ul>
                 </div>
             </div>
