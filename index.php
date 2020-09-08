@@ -32,7 +32,8 @@
                         <img src="img\byefugas-logo.png" alt="Logo Bye Fugas">
                     </div>
                     <div class="mt-5 text-md-left text-center">
-                        <h1 class="font-weight-bold">Detección y reparación de fugas <br>de <span class="text-primary">Agua</span> y <span class="text-primary">Gas</span> en Santiago y Valparaíso</h1>
+                        <h1 class="font-weight-bold mb-4">Detección y reparación de fugas <br>de redes de <span class="text-primary">Agua</span> fría y caliente <br>en Santiago y Valparaíso</h1>
+                        <h4>Servicio a nivel domiciliario</h4>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
@@ -46,44 +47,6 @@
                     </a>
                 </div>
             </div>
-            <div class="row mt-5 detectamos">
-                <div class="col">
-                    <div class="row">
-                        <div class="col">
-                            <h4 class="text-center font-weight-bold">Detectamos fugas, generamos un presupuesto y reparamos</h4>
-                            <h5 class="text-center font-weight-bold">También realizamos informes técnicos para compañías de seguros</h5>
-                        </div>
-                    </div>
-                    <div class="row my-5">
-                        <div class="col text-center col-12 col-md-4 mb-3">
-                            <div class="card">
-                                <div class="card-body">
-                                    <div class="mb-3">
-                                        <img src="img/002-gas.svg" alt="Gas">
-                                    </div>
-                                    <p class="font-weight-bold mb-0">Redes de Gas</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col text-center col-12 col-md-4 mb-3">
-                            <div class="card">
-                                <div class="card-body">
-                                    <img src="img/001-hand-wash.svg" alt="Agua" class="mb-3">
-                                    <p class="font-weight-bold mb-0">Red de agua fría y caliente</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col text-center col-12 col-md-4 mb-3">
-                            <div class="card">
-                                <div class="card-body">
-                                    <img src="img/003-thermometer.svg" alt="Calefacción" class="mb-3">
-                                    <p class="font-weight-bold mb-0">Redes de Calefacción</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
     <section id="content">
@@ -92,7 +55,7 @@
                 <div class="col-sm-12 col-md-6 text-center text-md-left mb-3">
                     <h3 class="font-weight-bold text-primary">Antonio Pacheco Álvarez</h3>
                     <h5 class="font-weight-bold ">Técnico con más de 25 años de experiencia</h5>
-                    <p>Detectamos para reparar su fuga y así evitar romper sus muros o pisos buscando la filtración. Al encontrar la fuga, se realiza un presupuesto por la reparación.</p>
+                    <p>Detectamos para reparar su fuga y así evitar romper sus muros o pisos buscando la filtración.</p>
                 </div>
                 <div class="col-sm-12 col-md-6 text-center mb-3">
                     <img class="img-fluid rounded" src="img/deteccion.jpg" alt="Detección de fugas">
